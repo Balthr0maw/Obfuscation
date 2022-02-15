@@ -1,0 +1,14 @@
+We need to windows machine.
+Go to the BatchObfuscation file and create your .bat file
+Open up a cmd
+Go to the BatchObfuscation directory and write this
+> obfuscator.cmd <your .bat file> 
+HIT ENTER! 
+As we can see the new .bat file name with "o"  for example: powershello.bat
+
+If you want to see what happaned to the new file, you can change extension .bat to .txt an open it.
+We can see Chinese Characters!
+
+If you want to use Deobfuscation techniques
+Use the same steps for Deobfuscating file.
+
